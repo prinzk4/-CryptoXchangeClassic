@@ -28,7 +28,7 @@ CryptoXchangeClassic is a modern, mobile-friendly React Native app that displays
 1. Clone this repo:
 ```bash
 git clone https://github.com/yourusername/cryptoxchange.git
-cd cryptoxchange
+cd cryptoxchangeclassic
 ```
 
 2. Install dependencies:
