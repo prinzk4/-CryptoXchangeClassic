@@ -6,9 +6,6 @@ CryptoXchangeClassic is a modern, mobile-friendly React Native app that displays
 
 - 🔁 **Live price tracking** for top cryptocurrencies
 - 🧱 **Card layout** with logos, names, and current prices
-- 🔍 **Search bar** to filter coins by name or symbol
-- 🔄 **Pull-to-refresh** functionality to update prices manually
-- 🌚 **Dark mode toggle** for better viewing experience
 - 🎯 **Smooth animations** for professional visual feel
 - 📲 **Mobile-friendly UI**, optimized for client demos
 - ☁️ **Expo deployed** – share via live link or QR code
@@ -23,7 +20,7 @@ CryptoXchangeClassic is a modern, mobile-friendly React Native app that displays
 
 ## 📸 Screenshot
 
-![CryptoXchangeClassic Demo](https://imgur.com/a/lFVywVM) <img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/15f5b4da-0dd4-4387-a714-07d50933677e" />
+![CryptoXchangeClassic Demo] <img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/15f5b4da-0dd4-4387-a714-07d50933677e" />
 <!-- Replace with actual screenshot if available -->
 
 ## 📦 How to Run Locally
